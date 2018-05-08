@@ -1,0 +1,3 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"result";s:337:"<div class="sp-module "><h3 class="sp-module-title">Partners</h3><div class="sp-module-content"><ul class="nav menu">
+<li class="item-476"><a href="/moraranyangitoadv/morara-partner" > Morara Apiemi</a></li><li class="item-477  current active"><a href="/moraranyangitoadv/nyangito-partner" > Wilkister Nyangito</a></li></ul>
+</div></div>";s:6:"output";a:3:{s:4:"body";s:0:"";s:4:"head";a:0:{}s:13:"mime_encoding";s:9:"text/html";}}
